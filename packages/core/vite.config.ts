@@ -1,7 +1,14 @@
 import { defineConfig } from 'vite';
 import path from 'path';
+import tsconfigPaths from "vite-tsconfig-paths";
+import react from '@vitejs/plugin-react';
+import {peerDependencies} from './package.json';
 
 export default defineConfig({
+  plugins: [
+    react(),
+    tsconfigPaths()
+  ],
   build: {
     lib: {
       entry: path.resolve(__dirname, 'index.ts'),
@@ -10,7 +17,7 @@ export default defineConfig({
       fileName: 'index',
     },
     rollupOptions: {
-      external: [/^node:.*/],
+      external: [...Object.keys(peerDependencies)],
       output: {
         globals: {
           react: 'React',
