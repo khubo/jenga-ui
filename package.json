@@ -82,8 +82,7 @@
   },
   "workspaces": [
     "packages/*",
-    "testi",
-    "testii"
+    "next-app"
   ],
   "resolutions": {
     "es5-ext": "0.10.53",

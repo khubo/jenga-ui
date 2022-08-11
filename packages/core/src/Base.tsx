@@ -90,4 +90,8 @@ const Base = function Base<K extends keyof HTMLElementTagNameMap>(
  * @deprecated consider using tasty() instead
  */
 const _Base = forwardRef(Base);
-export { _Base as Base };
+export { _Base as Base, Button };
+
+function Button() {
+  return <h1> Button</h1>;
+}
