@@ -1,0 +1,28 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@jenga-ui/accordion": "workspace:packages/accordion",
+    "@jenga-ui/avatar": "*",
+    "@jenga-ui/core": "*",
+    "@jenga-ui/react": "workspace:packages/react",
+    "next": "12.1.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.14",
+    "@types/react": "17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.2.5",
+    "typescript": "4.8.2"
+  }
+}

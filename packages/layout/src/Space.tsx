@@ -33,13 +33,13 @@ export const Space = forwardRef(function Space(props: JengaSpaceProps, ref) {
 
   return (
     <SpaceElement
+      ref={ref}
       {...filterBaseProps(otherProps, { eventProps: true })}
       mods={{
         vertical: direction === 'vertical' || otherProps.flow === 'column',
         ...mods,
       }}
       styles={styles}
-      ref={ref}
     />
   );
 });

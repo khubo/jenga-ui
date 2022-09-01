@@ -1,5 +1,4 @@
 import { forwardRef } from 'react';
-
 import { useSlotProps } from '@jenga-ui/utils';
 import { JengaSpaceProps, Space } from '@jenga-ui/layout';
 import { tasty } from 'tastycss';
@@ -16,6 +15,8 @@ export const ButtonGroup = forwardRef(function ButtonGroup(
   ref,
 ) {
   return (
+    <>
     <ButtonGroupElement ref={ref} {...useSlotProps(props, 'buttonGroup')} />
+    </>
   );
 });
