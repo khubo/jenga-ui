@@ -2288,8 +2288,8 @@ __metadata:
     "@jenga-ui/tsconfig": "*"
     "@react-aria/focus": ^3.8.0
     "@react-aria/interactions": ^3.11.0
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2309,8 +2309,8 @@ __metadata:
     "@react-aria/focus": ^3.8.0
     "@react-aria/interactions": ^3.11.0
     "@react-spectrum/utils": ^3.7.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2334,8 +2334,8 @@ __metadata:
     "@jenga-ui/tsconfig": "*"
     "@react-aria/utils": ^3.13.3
     "@react-types/dialog": ^3.4.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tiny-invariant: ^1.2.0
@@ -2354,8 +2354,8 @@ __metadata:
     "@jenga-ui/core": "*"
     "@jenga-ui/hooks": "*"
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2372,8 +2372,8 @@ __metadata:
   dependencies:
     "@ant-design/icons": ^4.7.0
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2391,8 +2391,8 @@ __metadata:
     "@ant-design/icons": ^4.7.0
     "@jenga-ui/core": "*"
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2411,14 +2411,11 @@ __metadata:
     "@jenga-ui/utils": "workspace:packages/utils"
     "@react-aria/breadcrumbs": ^3.3.1
     "@react-types/breadcrumbs": ^3.4.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
-    "@vitejs/plugin-react": ^2.0.0
-    rimraf: ^3.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     tastycss: ^0.8.6
     tsup: ^6.2.3
     typescript: ^4.5.4
-    vite: ^3.0.4
   peerDependencies:
     react: ^17.0.2
     react-dom: ^17.0.2
@@ -2433,8 +2430,8 @@ __metadata:
     "@jenga-ui/layout": "*"
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2460,8 +2457,8 @@ __metadata:
     "@react-types/button": ^3.6.1
     "@react-types/shared": ^3.14.1
     "@testing-library/react": ^13.3.0
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2477,8 +2474,8 @@ __metadata:
   resolution: "@jenga-ui/card@workspace:packages/card"
   dependencies:
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2505,8 +2502,8 @@ __metadata:
     "@react-stately/toggle": ^3.4.1
     "@react-types/checkbox": ^3.3.3
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2539,8 +2536,8 @@ __metadata:
     "@react-stately/combobox": ^3.2.1
     "@react-types/combobox": ^3.5.3
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2557,8 +2554,8 @@ __metadata:
   dependencies:
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2581,8 +2578,8 @@ __metadata:
     "@jenga-ui/toast": "*"
     "@jenga-ui/tooltip": "*"
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     clipboard-copy: ^4.0.1
     styled-components: ^5.3.0
     tastycss: ^0.8.6
@@ -2599,8 +2596,8 @@ __metadata:
   resolution: "@jenga-ui/core@workspace:packages/core"
   dependencies:
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     node-abort-controller: ^3.0.1
     react-transition-group: ^4.4.2
     styled-components: ^5.3.0
@@ -2634,8 +2631,8 @@ __metadata:
     "@react-stately/overlays": ^3.4.1
     "@react-types/dialog": ^3.4.3
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tiny-invariant: ^1.2.0
@@ -2654,7 +2651,7 @@ __metadata:
     eslint-config-next: ^12.0.8
     eslint-config-prettier: ^8.3.0
     eslint-config-turbo: latest
-    eslint-plugin-react: 7.29.4
+    eslint-plugin-react: 7.28.0
   languageName: unknown
   linkType: soft
 
@@ -2668,8 +2665,8 @@ __metadata:
     "@jenga-ui/tsconfig": "*"
     "@react-spectrum/utils": ^3.7.3
     "@react-types/textfield": ^3.5.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2694,8 +2691,8 @@ __metadata:
     "@react-spectrum/utils": ^3.7.3
     "@react-stately/collections": ^3.4.3
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     email-validator: ^2.0.4
     styled-components: ^5.3.0
     tastycss: ^0.8.6
@@ -2714,14 +2711,14 @@ __metadata:
   dependencies:
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     node-abort-controller: ^3.0.1
     tsup: ^6.2.3
     typescript: ^4.5.4
   peerDependencies:
-    react: ^17.0.0
-    react-dom: ^17.0.0
+    react: ^17.0.2
+    react-dom: ^17.0.2
   languageName: unknown
   linkType: soft
 
@@ -2735,8 +2732,8 @@ __metadata:
     "@jenga-ui/text-input": "*"
     "@jenga-ui/textarea": "*"
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2753,8 +2750,8 @@ __metadata:
   dependencies:
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2772,8 +2769,8 @@ __metadata:
     "@jenga-ui/button": "*"
     "@jenga-ui/tsconfig": "*"
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2807,8 +2804,8 @@ __metadata:
     "@react-types/menu": ^3.7.1
     "@react-types/overlays": ^3.6.3
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2832,8 +2829,8 @@ __metadata:
     "@react-aria/utils": ^3.13.3
     "@react-spectrum/utils": ^3.7.3
     "@react-types/overlays": ^3.6.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     react-transition-group: ^4.4.2
     styled-components: ^5.3.0
     tastycss: ^0.8.6
@@ -2868,11 +2865,11 @@ __metadata:
     "@react-stately/collections": ^3.4.3
     "@react-stately/list": ^3.5.3
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
-    react-is: ^17
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
+    react-is: ^17.0.0
     react-keyed-flatten-children: ^1.3.0
-    react-transition-group: ^4.4.5
+    react-transition-group: ^4.4.2
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tiny-invariant: ^1.2.0
@@ -2893,8 +2890,8 @@ __metadata:
     "@jenga-ui/card": "*"
     "@jenga-ui/core": "*"
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2920,8 +2917,8 @@ __metadata:
     "@react-aria/numberfield": ^3.3.1
     "@react-stately/numberfield": ^3.2.1
     "@react-types/numberfield": ^3.3.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2939,8 +2936,8 @@ __metadata:
     "@jenga-ui/portal": "*"
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     react-transition-group: ^4.4.2
     styled-components: ^5.3.0
     tastycss: ^0.8.6
@@ -2963,8 +2960,8 @@ __metadata:
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
     "@react-aria/textfield": ^3.7.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2980,8 +2977,8 @@ __metadata:
   resolution: "@jenga-ui/placeholder@workspace:packages/placeholder"
   dependencies:
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -2998,8 +2995,8 @@ __metadata:
   dependencies:
     "@ant-design/icons": ^4.7.0
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tiny-invariant: ^1.2.0
@@ -3016,9 +3013,9 @@ __metadata:
   resolution: "@jenga-ui/prism-code@workspace:packages/prism-code"
   dependencies:
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
-    prismjs: ^1.28.0
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
+    prismjs: ^1.25.0
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3035,8 +3032,8 @@ __metadata:
   dependencies:
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3061,8 +3058,8 @@ __metadata:
     "@react-spectrum/utils": ^3.7.3
     "@react-stately/radio": ^3.5.1
     "@react-types/radio": ^3.2.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3123,14 +3120,14 @@ __metadata:
     "@jenga-ui/tooltip": "*"
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     node-abort-controller: ^3.0.1
     tsup: ^6.2.3
     typescript: ^4.5.4
   peerDependencies:
-    react: ^17.0.0
-    react-dom: ^17.0.0
+    react: ^17.0.2
+    react-dom: ^17.0.2
   languageName: unknown
   linkType: soft
 
@@ -3142,8 +3139,8 @@ __metadata:
     "@jenga-ui/content": "*"
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3166,16 +3163,16 @@ __metadata:
     "@jenga-ui/tsconfig": "*"
     "@jenga-ui/utils": "*"
     "@react-aria/overlays": ^3.10.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     node-abort-controller: ^3.0.1
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
     typescript: ^4.5.4
   peerDependencies:
-    react: ^17.0.0
-    react-dom: ^17.0.0
+    react: ^17.0.2
+    react-dom: ^17.0.2
   languageName: unknown
   linkType: soft
 
@@ -3191,8 +3188,8 @@ __metadata:
     "@jenga-ui/utils": "*"
     "@react-aria/searchfield": ^3.4.1
     "@react-stately/searchfield": ^3.3.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3223,8 +3220,8 @@ __metadata:
     "@react-stately/select": ^3.3.1
     "@react-types/select": ^3.6.3
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3241,8 +3238,8 @@ __metadata:
   dependencies:
     "@jenga-ui/notification": "*"
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     react-transition-group: ^4.4.2
     styled-components: ^5.3.0
     tastycss: ^0.8.6
@@ -3261,8 +3258,8 @@ __metadata:
     "@jenga-ui/layout": "*"
     "@jenga-ui/placeholder": "*"
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3291,18 +3288,15 @@ __metadata:
     "@react-aria/visually-hidden": ^3.4.1
     "@react-stately/slider": ^3.2.1
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
-    "@vitejs/plugin-react": ^1.3.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     react-aria: ^3.19.0
-    rimraf: ^3.0.2
     tastycss: ^0.8.6
     tsup: ^6.2.3
     typescript: ^4.5.4
-    vite: ^3.0.4
   peerDependencies:
-    react: ^17.0.0
-    react-dom: ^17.0.0
+    react: ^17.0.2
+    react-dom: ^17.0.2
   languageName: unknown
   linkType: soft
 
@@ -3366,8 +3360,8 @@ __metadata:
     "@storybook/test-runner": ^0.7.0
     "@storybook/testing-library": ^0.0.13
     "@vitejs/plugin-react": ^1.3.2
-    react: ^18.0.0
-    react-dom: ^18.0.0
+    react: ^17.0.2
+    react-dom: ^17.0.2
     serve: ^13.0.2
     typescript: ^4.5.4
     vite: ^3.0.9
@@ -3388,8 +3382,8 @@ __metadata:
     "@react-spectrum/utils": ^3.7.3
     "@react-stately/toggle": ^3.4.1
     "@react-types/switch": ^3.2.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3417,14 +3411,11 @@ __metadata:
     "@react-stately/table": ^3.4.0
     "@react-types/grid": ^3.1.3
     "@react-types/shared": ^3.14.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
-    "@vitejs/plugin-react": ^2.0.0
-    rimraf: ^3.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     tastycss: ^0.8.6
     tsup: ^6.2.3
     typescript: ^4.5.4
-    vite: ^3.0.4
   peerDependencies:
     react: ^17.0.2
     react-dom: ^17.0.2
@@ -3439,8 +3430,8 @@ __metadata:
     "@jenga-ui/core": "*"
     "@jenga-ui/layout": "*"
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3459,8 +3450,8 @@ __metadata:
     "@jenga-ui/button": "*"
     "@jenga-ui/layout": "*"
     "@jenga-ui/tsconfig": "*"
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3486,8 +3477,8 @@ __metadata:
     "@react-aria/textfield": ^3.7.1
     "@react-spectrum/utils": ^3.7.3
     "@react-types/textfield": ^3.5.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3509,8 +3500,8 @@ __metadata:
     "@react-aria/textfield": ^3.7.1
     "@react-aria/utils": ^3.13.3
     "@react-stately/utils": ^3.5.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3528,9 +3519,9 @@ __metadata:
     "@jenga-ui/new-notifications": "*"
     "@jenga-ui/tsconfig": "*"
     "@react-aria/utils": ^3.13.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
-    react-is: ^17
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
+    react-is: ^17.0.0
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3557,8 +3548,8 @@ __metadata:
     "@react-stately/tooltip": ^3.2.1
     "@react-types/shared": ^3.14.1
     "@react-types/tooltip": ^3.2.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -3583,10 +3574,10 @@ __metadata:
     "@react-aria/interactions": ^3.11.0
     "@react-aria/ssr": ^3.3.0
     "@react-aria/utils": ^3.13.3
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
-    clsx: ^1.2.1
-    react-is: ^17
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
+    clsx: ^1.1.1
+    react-is: ^17.0.0
     styled-components: ^5.3.0
     tastycss: ^0.8.6
     tsup: ^6.2.3
@@ -7225,159 +7216,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@swc/core-android-arm-eabi@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-android-arm-eabi@npm:1.2.245"
-  dependencies:
-    "@swc/wasm": 1.2.122
-  checksum: a1dbd238593dbde9685534bd97b803c8b3016aea85b194449e58413dfb0b934a0577c147939adf3e4414c1d79b3179e524559e048d111b8c0d14191df40522c3
-  languageName: node
-  linkType: hard
-
-"@swc/core-android-arm64@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-android-arm64@npm:1.2.245"
-  dependencies:
-    "@swc/wasm": 1.2.130
-  checksum: 215c8a812260d3a0930914f4e4c9e69d28985511bf15dcd6b5637e605278d255f164a5b6195ddf409fc2162b748617e13ae6fe6ab71a2d3e14f8c9f94a04125b
-  languageName: node
-  linkType: hard
-
-"@swc/core-darwin-arm64@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-darwin-arm64@npm:1.2.245"
-  checksum: c03ac658440473a6774994f26e80e025935c620431d47f3c9f9105f300b1e08a68fe169e44a51c17f03120c7430e04d228bf8c8bca88ac21524e2faa53198cb7
-  languageName: node
-  linkType: hard
-
-"@swc/core-darwin-x64@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-darwin-x64@npm:1.2.245"
-  checksum: 7c07be069a880d82694ed695b00ad5e1089ab011d4cabb8207ae7a866861b693c842b5b6b5ddd84a43cf8d30ea1882a72fbb33fac21535c4909bdd8270789bfb
-  languageName: node
-  linkType: hard
-
-"@swc/core-freebsd-x64@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-freebsd-x64@npm:1.2.245"
-  dependencies:
-    "@swc/wasm": 1.2.130
-  checksum: de5aa73758de6efe537f7b88f2dada21ceb8872dc343dbdf0f19ad69f3004458f744d43111b1ff6cf0cffcb950c354e505798692b9bba38947ec553012e7c1df
-  languageName: node
-  linkType: hard
-
-"@swc/core-linux-arm-gnueabihf@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-linux-arm-gnueabihf@npm:1.2.245"
-  dependencies:
-    "@swc/wasm": 1.2.130
-  checksum: 5414a0ed80c7ab549a97da106a4320726a29b11a7f938e90aaebd0eb795b85da7c57a7f72c1a5558da172cbe37b3f4e6dbb6a3ed3171c6edbf7b01901a209de9
-  languageName: node
-  linkType: hard
-
-"@swc/core-linux-arm64-gnu@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-linux-arm64-gnu@npm:1.2.245"
-  checksum: 93baf387e3ddd465a5c295032ab03c06092a8a5429495e444b47681e4f65557436832168681e1385069190a257f6c58c52d92688b80a81634daa19bc5c559a09
-  languageName: node
-  linkType: hard
-
-"@swc/core-linux-arm64-musl@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-linux-arm64-musl@npm:1.2.245"
-  checksum: 7c8737a4ee7c596976324f1ed1becfd0f4d317a1bb8ba05ec6220adfafa81eeb902a694eed77090ecb1fae53464ff9fe6ff201c1a1c244a794300b599007bdfc
-  languageName: node
-  linkType: hard
-
-"@swc/core-linux-x64-gnu@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-linux-x64-gnu@npm:1.2.245"
-  checksum: 7c48acbca31c85d55589ef8e32462faf540b59af413d3c75b8a1117af417c3854798cdc3e495868ffe64f3381da1556863adf8e734f40bfd926e9f55647a34a2
-  languageName: node
-  linkType: hard
-
-"@swc/core-linux-x64-musl@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-linux-x64-musl@npm:1.2.245"
-  checksum: a50bdeb3cb6336c02138b81c4f69eb40907560b57a13c6cee97c7f635ee627c9f9a65022d3085ce48090a1a006856dc32304d9cd296e0d97b3384da451d43225
-  languageName: node
-  linkType: hard
-
-"@swc/core-win32-arm64-msvc@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-win32-arm64-msvc@npm:1.2.245"
-  dependencies:
-    "@swc/wasm": 1.2.130
-  checksum: b07e37918ef1ab0f9f6c04c74a4a3e536b4f0ffd7d9451038104c8241cc2125b03f7feef72ff462b4fab46eb6047d77b678d3d8c589ec1aa81cefaadbda34f28
-  languageName: node
-  linkType: hard
-
-"@swc/core-win32-ia32-msvc@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-win32-ia32-msvc@npm:1.2.245"
-  dependencies:
-    "@swc/wasm": 1.2.130
-  checksum: d2dd0622a99c5cd5d70e52ff77268aae5f8ee81187872aec8cd6d552043a9cdc9c3666e167503ca048d798fea8f2b6892f9e9ad7247f2397bdcd873fd21d588e
-  languageName: node
-  linkType: hard
-
-"@swc/core-win32-x64-msvc@npm:1.2.245":
-  version: 1.2.245
-  resolution: "@swc/core-win32-x64-msvc@npm:1.2.245"
-  checksum: ea8e6b38f02cdde247b6bf710f9f4e02bb42d0a960dc3b06de6576cef61d89cfd2601d8b8083aa24045ebb4606ad4fe5cd6d55034373f61c1762b60072a4fd58
-  languageName: node
-  linkType: hard
-
-"@swc/core@npm:^1.2.148":
-  version: 1.2.245
-  resolution: "@swc/core@npm:1.2.245"
-  dependencies:
-    "@swc/core-android-arm-eabi": 1.2.245
-    "@swc/core-android-arm64": 1.2.245
-    "@swc/core-darwin-arm64": 1.2.245
-    "@swc/core-darwin-x64": 1.2.245
-    "@swc/core-freebsd-x64": 1.2.245
-    "@swc/core-linux-arm-gnueabihf": 1.2.245
-    "@swc/core-linux-arm64-gnu": 1.2.245
-    "@swc/core-linux-arm64-musl": 1.2.245
-    "@swc/core-linux-x64-gnu": 1.2.245
-    "@swc/core-linux-x64-musl": 1.2.245
-    "@swc/core-win32-arm64-msvc": 1.2.245
-    "@swc/core-win32-ia32-msvc": 1.2.245
-    "@swc/core-win32-x64-msvc": 1.2.245
-  dependenciesMeta:
-    "@swc/core-android-arm-eabi":
-      optional: true
-    "@swc/core-android-arm64":
-      optional: true
-    "@swc/core-darwin-arm64":
-      optional: true
-    "@swc/core-darwin-x64":
-      optional: true
-    "@swc/core-freebsd-x64":
-      optional: true
-    "@swc/core-linux-arm-gnueabihf":
-      optional: true
-    "@swc/core-linux-arm64-gnu":
-      optional: true
-    "@swc/core-linux-arm64-musl":
-      optional: true
-    "@swc/core-linux-x64-gnu":
-      optional: true
-    "@swc/core-linux-x64-musl":
-      optional: true
-    "@swc/core-win32-arm64-msvc":
-      optional: true
-    "@swc/core-win32-ia32-msvc":
-      optional: true
-    "@swc/core-win32-x64-msvc":
-      optional: true
-  bin:
-    swcx: run_swcx.js
-  checksum: 3f538060e9c6ee08617e8858fca86d759b58fea17c1b294d68eecbd96cc144d3d50fc20ebc86ec2079e9cf76b44c9cd2d67d6230bc05b351ce7c16e2c3ab614f
-  languageName: node
-  linkType: hard
-
 "@swc/jest@npm:^0.2.20":
   version: 0.2.22
   resolution: "@swc/jest@npm:0.2.22"
@@ -7389,21 +7227,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@swc/wasm@npm:1.2.122":
-  version: 1.2.122
-  resolution: "@swc/wasm@npm:1.2.122"
-  checksum: 563345370c5ad18373d3b403590ab880fe52dcd8fc8c8601be263fcd9886520b28a7f4e46236cf49ca2b136c79d4ef50c960bc34b7cdc2068118b0d84dfca1f4
-  languageName: node
-  linkType: hard
-
-"@swc/wasm@npm:1.2.130":
-  version: 1.2.130
-  resolution: "@swc/wasm@npm:1.2.130"
-  checksum: 02203bfef3e382c64cbbd63c138c8fdf61865e74d923b317e9d9e9f33f5a3f0a9533b5fdbc9505e76d78e864be04a82fc847eb987a1e47ccac5850146c858292
-  languageName: node
-  linkType: hard
-
-"@testing-library/dom@npm:^8.3.0, @testing-library/dom@npm:^8.5.0":
+"@testing-library/dom@npm:^8.0.0, @testing-library/dom@npm:^8.3.0, @testing-library/dom@npm:^8.5.0":
   version: 8.17.1
   resolution: "@testing-library/dom@npm:8.17.1"
   dependencies:
@@ -7436,7 +7260,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@testing-library/react-hooks@npm:^8.0.1":
+"@testing-library/react-hooks@npm:^8.0.0":
   version: 8.0.1
   resolution: "@testing-library/react-hooks@npm:8.0.1"
   dependencies:
@@ -7455,6 +7279,20 @@ __metadata:
     react-test-renderer:
       optional: true
   checksum: 7fe44352e920deb5cb1876f80d64e48615232072c9d5382f1e0284b3aab46bb1c659a040b774c45cdf084a5257b8fe463f7e08695ad8480d8a15635d4d3d1f6d
+  languageName: node
+  linkType: hard
+
+"@testing-library/react@npm:^12.1.2":
+  version: 12.1.5
+  resolution: "@testing-library/react@npm:12.1.5"
+  dependencies:
+    "@babel/runtime": ^7.12.5
+    "@testing-library/dom": ^8.0.0
+    "@types/react-dom": <18.0.0
+  peerDependencies:
+    react: <18.0.0
+    react-dom: <18.0.0
+  checksum: 4abd0490405e709a7df584a0db604e508a4612398bb1326e8fa32dd9393b15badc826dcf6d2f7525437886d507871f719f127b9860ed69ddd204d1fa834f576a
   languageName: node
   linkType: hard
 
@@ -7804,7 +7642,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^17.0.2":
+"@types/react-dom@npm:<18.0.0, @types/react-dom@npm:^17.0.11":
   version: 17.0.17
   resolution: "@types/react-dom@npm:17.0.17"
   dependencies:
@@ -7822,7 +7660,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-is@npm:^17.0.2":
+"@types/react-is@npm:^17.0.3":
   version: 17.0.3
   resolution: "@types/react-is@npm:17.0.3"
   dependencies:
@@ -7831,16 +7669,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-test-renderer@npm:^18.0.0":
-  version: 18.0.0
-  resolution: "@types/react-test-renderer@npm:18.0.0"
+"@types/react-test-renderer@npm:^17.0.1":
+  version: 17.0.2
+  resolution: "@types/react-test-renderer@npm:17.0.2"
   dependencies:
-    "@types/react": "*"
-  checksum: 6afc938a1d7618d88ab8793e251f0bd5981bf3f08c1b600f74df3f8800b92589ea534dc6dcb7c8d683893fcc740bf8d7843a42bf2dae59785cfe88f004bd7b0b
+    "@types/react": ^17
+  checksum: 0be325798b6b38cc31fbb11f2f1e1a5578cc3b23eddf1ddd1ab58ccf50966e8f779383084d8bc3a7db3108ad815af8fbae5c0f54329a88d52200e01547d85c33
   languageName: node
   linkType: hard
 
-"@types/react-transition-group@npm:^4.4.5":
+"@types/react-transition-group@npm:^4.4.2":
   version: 4.4.5
   resolution: "@types/react-transition-group@npm:4.4.5"
   dependencies:
@@ -7860,17 +7698,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:17.0.2":
-  version: 17.0.2
-  resolution: "@types/react@npm:17.0.2"
+"@types/react@npm:17.0.38":
+  version: 17.0.38
+  resolution: "@types/react@npm:17.0.38"
   dependencies:
     "@types/prop-types": "*"
+    "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: a5198857165feddcbfc7d33e3322460ac62b8894d702414496a825b0c82272911ec33a42ef7c9d623a59308070eef4dfee6ff834b0674aa3f87eeb644196ee3b
+  checksum: 4079f4f959cd4a4bfaeda8b89fe8a1b1f8bdc9d87acfdc5f74a0b39cec9ec6a470724357c62778c0f063180b360c250e920c5a142f1dbcda67d9cc25a6d43a85
   languageName: node
   linkType: hard
 
-"@types/react@npm:^17, @types/react@npm:^17.0.2":
+"@types/react@npm:^17, @types/react@npm:^17.0.38":
   version: 17.0.49
   resolution: "@types/react@npm:17.0.49"
   dependencies:
@@ -9890,7 +9729,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bytes@npm:3.1.2, bytes@npm:^3.1.2":
+"bytes@npm:3.1.2, bytes@npm:^3.1.0":
   version: 3.1.2
   resolution: "bytes@npm:3.1.2"
   checksum: e4bcd3948d289c5127591fbedf10c0b639ccbf00243504e4e127374a15c3bc8eed0d28d4aaab08ff6f1cf2abc0cce6ba3085ed32f4f90e82a5683ce0014e1b6e
@@ -10500,7 +10339,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clsx@npm:^1.0.4, clsx@npm:^1.1.1, clsx@npm:^1.2.1":
+"clsx@npm:^1.0.4, clsx@npm:^1.1.1":
   version: 1.2.1
   resolution: "clsx@npm:1.2.1"
   checksum: 30befca8019b2eb7dbad38cff6266cf543091dae2825c856a62a8ccf2c3ab9c2907c4d12b288b73101196767f66812365400a227581484a05f968b0307cfaf12
@@ -12680,27 +12519,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-react@npm:7.29.4":
-  version: 7.29.4
-  resolution: "eslint-plugin-react@npm:7.29.4"
+"eslint-plugin-react@npm:7.28.0":
+  version: 7.28.0
+  resolution: "eslint-plugin-react@npm:7.28.0"
   dependencies:
     array-includes: ^3.1.4
     array.prototype.flatmap: ^1.2.5
     doctrine: ^2.1.0
     estraverse: ^5.3.0
     jsx-ast-utils: ^2.4.1 || ^3.0.0
-    minimatch: ^3.1.2
+    minimatch: ^3.0.4
     object.entries: ^1.1.5
     object.fromentries: ^2.0.5
     object.hasown: ^1.1.0
     object.values: ^1.1.5
-    prop-types: ^15.8.1
+    prop-types: ^15.7.2
     resolve: ^2.0.0-next.3
     semver: ^6.3.0
     string.prototype.matchall: ^4.0.6
   peerDependencies:
     eslint: ^3 || ^4 || ^5 || ^6 || ^7 || ^8
-  checksum: bb7d3715ccd7f3e0d7bfaa2125b26d96865695bcfea4a3d510a5763342a74ab5b99a88e13aad9245f9461ad87e4bce69c33fc946888115d576233f9b6e69700d
+  checksum: 90293d0fd53bb1f735ffd32141cdd211fb1120c9f7bbe5342f9e923261a39e52a2b2575d4e46c9cd77d257f42db4a99b8b339689fc5b5c1c26048929f69b1784
   languageName: node
   linkType: hard
 
@@ -12728,17 +12567,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-storybook@npm:^0.6.3":
-  version: 0.6.4
-  resolution: "eslint-plugin-storybook@npm:0.6.4"
+"eslint-plugin-storybook@npm:^0.5.12":
+  version: 0.5.13
+  resolution: "eslint-plugin-storybook@npm:0.5.13"
   dependencies:
     "@storybook/csf": ^0.0.1
     "@typescript-eslint/experimental-utils": ^5.3.0
     requireindex: ^1.1.0
-    ts-dedent: ^2.2.0
   peerDependencies:
     eslint: ">=6"
-  checksum: 9bc1befb50ed741ee27f0492ba5c8c6c3d8d54a8ac53bd6c2054046a2918829d80b0f0ff916abe10c7e01fb45d29ec284ff9d19d0ef35d7812367b4f708756a3
+  checksum: 78a74daff68394e080aeff52250c5a6a3a6779f2867366c7db93ce36afd6e3113c3190b4a1d68c6a220b2511b3a3747aeab3d43bdce87fc6a63464847b9576fa
   languageName: node
   linkType: hard
 
@@ -14692,7 +14530,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"husky@npm:^8.0.1":
+"husky@npm:>=6":
   version: 8.0.1
   resolution: "husky@npm:8.0.1"
   bin:
@@ -15618,20 +15456,19 @@ fsevents@^1.2.7:
   resolution: "jenga-ui@workspace:."
   dependencies:
     "@changesets/cli": ^2.24.3
-    "@swc/core": ^1.2.148
     "@swc/jest": ^0.2.20
     "@testing-library/jest-dom": ^5.16.1
-    "@testing-library/react": ^13.3.0
-    "@testing-library/react-hooks": ^8.0.1
-    "@testing-library/user-event": ^14.2.1
-    "@types/react": ^17.0.2
-    "@types/react-dom": ^17.0.2
-    "@types/react-is": ^17.0.2
-    "@types/react-test-renderer": ^18.0.0
-    "@types/react-transition-group": ^4.4.5
+    "@testing-library/react": ^12.1.2
+    "@testing-library/react-hooks": ^8.0.0
+    "@testing-library/user-event": ^14.2.0
+    "@types/react": ^17.0.38
+    "@types/react-dom": ^17.0.11
+    "@types/react-is": ^17.0.3
+    "@types/react-test-renderer": ^17.0.1
+    "@types/react-transition-group": ^4.4.2
     "@typescript-eslint/eslint-plugin": ^5.8.1
     "@typescript-eslint/parser": ^5.8.1
-    bytes: ^3.1.2
+    bytes: ^3.1.0
     chromatic: ^6.8.0
     dedent: ^0.7.0
     eslint: ^8.5.0
@@ -15641,19 +15478,18 @@ fsevents@^1.2.7:
     eslint-plugin-jsx-a11y: ^6.5.1
     eslint-plugin-react: ^7.28.0
     eslint-plugin-react-hooks: ^4.3.0
-    eslint-plugin-storybook: ^0.6.3
-    husky: ^8.0.1
+    eslint-plugin-storybook: ^0.5.12
+    husky: ">=6"
     jest: ^27.5.1
     jest-styled-components: ^7.0.8
-    lint-staged: ^13.0.3
-    prettier: ^2.7.1
+    lint-staged: ">=10"
+    prettier: ^2.5.1
     react: ^17.0.2
     react-dom: ^17.0.2
-    react-router: ^6.3.0
-    react-test-renderer: ^18.2.0
+    react-router: ^6.2.1
+    react-test-renderer: ^17.0.2
     react-transition-group: ^4.4.2
     styled-components: ^5.3.0
-    swc-loader: ^0.2.3
     tastycss: ^0.8.6
     tsup: ^6.2.3
     turbo: ^1.4.3
@@ -17127,7 +16963,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"lint-staged@npm:^13.0.3":
+"lint-staged@npm:>=10":
   version: 13.0.3
   resolution: "lint-staged@npm:13.0.3"
   dependencies:
@@ -18121,13 +17957,13 @@ fsevents@^1.2.7:
   version: 0.0.0-use.local
   resolution: "next-app@workspace:next-app"
   dependencies:
-    "@jenga-ui/accordion": "workspace:packages/accordion"
+    "@jenga-ui/accordion": "*"
     "@jenga-ui/avatar": "*"
     "@jenga-ui/core": "*"
-    "@jenga-ui/react": "workspace:packages/react"
+    "@jenga-ui/root": "*"
     "@types/node": 18.7.14
-    "@types/react": 17.0.2
-    "@types/react-dom": ^17.0.2
+    "@types/react": 17.0.38
+    "@types/react-dom": ^17.0.11
     eslint: 8.23.0
     eslint-config-next: 12.2.5
     next: 12.1.4
@@ -19501,7 +19337,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"prismjs@npm:^1.28.0":
+"prismjs@npm:^1.25.0":
   version: 1.29.0
   resolution: "prismjs@npm:1.29.0"
   checksum: 007a8869d4456ff8049dc59404e32d5666a07d99c3b0e30a18bd3b7676dfa07d1daae9d0f407f20983865fd8da56de91d09cb08e6aa61f5bc420a27c0beeaf93
@@ -19957,18 +19793,6 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^18.0.0":
-  version: 18.2.0
-  resolution: "react-dom@npm:18.2.0"
-  dependencies:
-    loose-envify: ^1.1.0
-    scheduler: ^0.23.0
-  peerDependencies:
-    react: ^18.2.0
-  checksum: 7d323310bea3a91be2965f9468d552f201b1c27891e45ddc2d6b8f717680c95a75ae0bc1e3f5cf41472446a2589a75aed4483aee8169287909fcd59ad149e8cc
-  languageName: node
-  linkType: hard
-
 "react-element-to-jsx-string@npm:^14.3.4":
   version: 14.3.4
   resolution: "react-element-to-jsx-string@npm:14.3.4"
@@ -20007,14 +19831,14 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"react-is@npm:17.0.2, react-is@npm:^17, react-is@npm:^17.0.0, react-is@npm:^17.0.1":
+"react-is@npm:17.0.2, react-is@npm:^17.0.0, react-is@npm:^17.0.1, react-is@npm:^17.0.2":
   version: 17.0.2
   resolution: "react-is@npm:17.0.2"
   checksum: 9d6d111d8990dc98bc5402c1266a808b0459b5d54830bbea24c12d908b536df7883f268a7868cfaedde3dd9d4e0d574db456f84d2e6df9c4526f99bb4b5344d8
   languageName: node
   linkType: hard
 
-"react-is@npm:^16.12.0 || ^17.0.0 || ^18.0.0, react-is@npm:^18.0.0, react-is@npm:^18.2.0":
+"react-is@npm:^16.12.0 || ^17.0.0 || ^18.0.0, react-is@npm:^18.0.0":
   version: 18.2.0
   resolution: "react-is@npm:18.2.0"
   checksum: e72d0ba81b5922759e4aff17e0252bd29988f9642ed817f56b25a3e217e13eea8a7f2322af99a06edb779da12d5d636e9fda473d620df9a3da0df2a74141d53e
@@ -20067,7 +19891,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"react-router@npm:^6.3.0":
+"react-router@npm:^6.2.1":
   version: 6.3.0
   resolution: "react-router@npm:6.3.0"
   dependencies:
@@ -20078,7 +19902,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"react-shallow-renderer@npm:^16.15.0":
+"react-shallow-renderer@npm:^16.13.1":
   version: 16.15.0
   resolution: "react-shallow-renderer@npm:16.15.0"
   dependencies:
@@ -20090,20 +19914,21 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"react-test-renderer@npm:^18.2.0":
-  version: 18.2.0
-  resolution: "react-test-renderer@npm:18.2.0"
+"react-test-renderer@npm:^17.0.2":
+  version: 17.0.2
+  resolution: "react-test-renderer@npm:17.0.2"
   dependencies:
-    react-is: ^18.2.0
-    react-shallow-renderer: ^16.15.0
-    scheduler: ^0.23.0
+    object-assign: ^4.1.1
+    react-is: ^17.0.2
+    react-shallow-renderer: ^16.13.1
+    scheduler: ^0.20.2
   peerDependencies:
-    react: ^18.2.0
-  checksum: 6b6980ced93fa2b72662d5e4ab3b4896833586940047ce52ca9aca801e5432adf05fcbe28289b0af3ce6a2a7c590974e25dcc8aa43d0de658bfe8bbcd686f958
+    react: 17.0.2
+  checksum: e6b5c6ed2a0bde2c34f1ab9523ff9bc4c141a271daf730d6b852374e83acc0155d58ab71a318251e953ebfa65b8bebb9c5dce3eba1ccfcbef7cc4e1e8261c401
   languageName: node
   linkType: hard
 
-"react-transition-group@npm:^4.4.2, react-transition-group@npm:^4.4.5":
+"react-transition-group@npm:^4.4.2":
   version: 4.4.5
   resolution: "react-transition-group@npm:4.4.5"
   dependencies:
@@ -20125,15 +19950,6 @@ fsevents@^1.2.7:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
   checksum: b254cc17ce3011788330f7bbf383ab653c6848902d7936a87b09d835d091e3f295f7e9dd1597c6daac5dc80f90e778c8230218ba8ad599f74adcc11e33b9d61b
-  languageName: node
-  linkType: hard
-
-"react@npm:^18.0.0":
-  version: 18.2.0
-  resolution: "react@npm:18.2.0"
-  dependencies:
-    loose-envify: ^1.1.0
-  checksum: 88e38092da8839b830cda6feef2e8505dec8ace60579e46aa5490fc3dc9bba0bd50336507dc166f43e3afc1c42939c09fe33b25fae889d6f402721dcd78fca1b
   languageName: node
   linkType: hard
 
@@ -20849,15 +20665,6 @@ resolve@^2.0.0-next.3:
     loose-envify: ^1.1.0
     object-assign: ^4.1.1
   checksum: c4b35cf967c8f0d3e65753252d0f260271f81a81e427241295c5a7b783abf4ea9e905f22f815ab66676f5313be0a25f47be582254db8f9241b259213e999b8fc
-  languageName: node
-  linkType: hard
-
-"scheduler@npm:^0.23.0":
-  version: 0.23.0
-  resolution: "scheduler@npm:0.23.0"
-  dependencies:
-    loose-envify: ^1.1.0
-  checksum: d79192eeaa12abef860c195ea45d37cbf2bbf5f66e3c4dcd16f54a7da53b17788a70d109ee3d3dde1a0fd50e6a8fc171f4300356c5aee4fc0171de526bf35f8a
   languageName: node
   linkType: hard
 
@@ -22003,16 +21810,6 @@ resolve@^2.0.0-next.3:
     espree: 9.2.0
     htmlparser2-svelte: 4.1.0
   checksum: c0260161c80d1c5ec52808e98f82def379746020c4ffad6e462fec3cd299a3435430eb55a8fe4265884975575bd2aa74f9eda11617864e8aa5a4ca585b57dc51
-  languageName: node
-  linkType: hard
-
-"swc-loader@npm:^0.2.3":
-  version: 0.2.3
-  resolution: "swc-loader@npm:0.2.3"
-  peerDependencies:
-    "@swc/core": ^1.2.147
-    webpack: ">=2"
-  checksum: 010d84d399525c0185d36d62c86c55ae017e7a90046bc8a39be4b7e07526924037868049f6037bc966da98151cb2600934b96a66279b742d3c413a718b427251
   languageName: node
   linkType: hard
 
@@ -23361,7 +23158,7 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"vite@npm:^3.0.4, vite@npm:^3.0.9":
+"vite@npm:^3.0.9":
   version: 3.0.9
   resolution: "vite@npm:3.0.9"
   dependencies:
