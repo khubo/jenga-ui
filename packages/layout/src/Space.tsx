@@ -1,4 +1,5 @@
 import { forwardRef } from 'react';
+
 import {
   BaseProps,
   CONTAINER_STYLES,
@@ -16,8 +17,8 @@ const SpaceElement = tasty({
       '': 'row',
       vertical: 'column',
     },
-    alignItems: {
-      '': 'center',
+    placeItems: {
+      '': 'center stretch',
       vertical: 'stretch',
     },
   },
@@ -33,8 +34,8 @@ export const Space = forwardRef(function Space(props: JengaSpaceProps, ref) {
 
   return (
     <SpaceElement
-      ref={ref}
       {...filterBaseProps(otherProps, { eventProps: true })}
+      ref={ref}
       mods={{
         vertical: direction === 'vertical' || otherProps.flow === 'column',
         ...mods,

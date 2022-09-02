@@ -3448,6 +3448,7 @@ __metadata:
   dependencies:
     "@ant-design/icons": ^4.7.0
     "@jenga-ui/button": "*"
+    "@jenga-ui/core": "*"
     "@jenga-ui/layout": "*"
     "@jenga-ui/tsconfig": "*"
     "@types/react": ^17.0.38
@@ -17957,10 +17958,8 @@ fsevents@^1.2.7:
   version: 0.0.0-use.local
   resolution: "next-app@workspace:next-app"
   dependencies:
-    "@jenga-ui/accordion": "*"
     "@jenga-ui/avatar": "*"
     "@jenga-ui/core": "*"
-    "@jenga-ui/root": "*"
     "@types/node": 18.7.14
     "@types/react": 17.0.38
     "@types/react-dom": ^17.0.11
